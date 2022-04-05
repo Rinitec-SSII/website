@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /login.html
+Disallow: /plansite.html
+Disallow: /404.html
+https://rinitec.ml/sitemap.xml
